@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\tunin\Downloads\CLR_13229356 (2)\CLR\CLR\MyForm.cpp(18,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\tunin\Downloads\CLR_13229356 (2)\CLR\CLR\MyForm.cpp(19,25): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CLR.vcxproj -> C:\Users\tunin\Downloads\CLR_13229356 (2)\CLR\x64\Debug\CLR.exe

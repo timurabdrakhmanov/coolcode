@@ -1,0 +1,8 @@
+C:\Users\Arzumanyan\Documents\.job\.cpp\CLR\CLR\x64\Debug\CLR.vcxproj.AssemblyReference.cache
+C:\Users\Arzumanyan\Documents\.job\.cpp\CLR\CLR\x64\Debug\CLR.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Arzumanyan\Documents\.job\.cpp\CLR\CLR\x64\Debug\CLR.MyForm.resources
+C:\Users\Arzumanyan\Documents\.job\.cpp\CLR\CLR\x64\Debug\CLR.vcxproj.GenerateResource.cache
+C:\Users\tunin\Downloads\CLR_13229356 (2)\CLR\CLR\x64\Debug\CLR.vcxproj.AssemblyReference.cache
+C:\Users\tunin\Downloads\CLR_13229356 (2)\CLR\CLR\x64\Debug\CLR.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\tunin\Downloads\CLR_13229356 (2)\CLR\CLR\x64\Debug\CLR.MyForm.resources
+C:\Users\tunin\Downloads\CLR_13229356 (2)\CLR\CLR\x64\Debug\CLR.vcxproj.GenerateResource.cache
